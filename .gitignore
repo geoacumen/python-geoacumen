@@ -1,0 +1,6 @@
+.DS_Store
+*.mmdb
+*.pyc
+build/
+dist/
+python_geoacumen.egg-info/
