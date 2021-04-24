@@ -1,4 +1,5 @@
-name: Build database
+
+name: Build and publish package
 
 on:
   workflow_dispatch:
