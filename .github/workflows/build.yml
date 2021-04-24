@@ -1,6 +1,8 @@
 name: Build database
 
 on:
+  workflow_dispatch:
+    inputs:
   schedule:
     - cron: '0 4 * * 0'  # weekly (At 04:00 on Sunday.)
 
