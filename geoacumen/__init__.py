@@ -1,5 +1,5 @@
 import os
 
-__version__ = "2024.10.06"
+__version__ = "2024.10.13"
 
 db_path = os.path.join(os.path.dirname(__file__), "db/Geoacumen-Country.mmdb")
